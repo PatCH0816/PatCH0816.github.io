@@ -107,6 +107,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/patrick-koller-1b171a114/
+  - icon: cv
+    icon_pack: ai
+    link: static/uploads/resume.pdf
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -136,5 +139,5 @@ I am a PhD student at Northwestern University supervised by [Prof. Dr. Katsaggel
 {style="text-align: justify;"} -->
 
 <center> 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "static/resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+<i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "static/uploads/resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
 </center> 

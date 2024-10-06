@@ -1,5 +1,5 @@
 ---
-title: 'Something cool'
+title: 'Machine Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,13 +24,13 @@ publishDate: '2020-11-16'
 publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In Conference on Robot Learning 
-publication_short: In CoRL
+publication: In Conference on AI
+publication_short: In CoAI
 
-abstract: Most innovation involves doing the things we do every day a little bit better rather than creating something completely new and different.
+abstract: In a world where data flows like an endless river, machine learning acts as the skilled navigator, transforming raw information into insights that redefine our reality. Imagine algorithms that can predict the next viral trend or diagnose diseases with uncanny accuracy—this is not the future; it’s happening now. As we stand on the brink of an AI revolution, the potential to unlock creativity and innovation is boundless, challenging the very limits of human imagination. Welcome to the age where machines learn, adapt, and collaborate, turning science fiction into our everyday experience.
 
 # Summary. An optional shortened abstract.
-summary: Something cool.
+summary: In a world where data flows like an endless river, machine learning acts as the skilled navigator, transforming raw information into insights that redefine our reality. Imagine algorithms that can predict the next viral trend or diagnose diseases with uncanny accuracy—this is not the future; it’s happening now. As we stand on the brink of an AI revolution, the potential to unlock creativity and innovation is boundless, challenging the very limits of human imagination. Welcome to the age where machines learn, adapt, and collaborate, turning science fiction into our everyday experience.
 
 tags: []
 
