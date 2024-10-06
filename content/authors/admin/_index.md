@@ -97,7 +97,7 @@ social:
     link: https://x.com/KollerPatrick
     label: Follow me on Twitter/X
     display:
-      header: true
+      header: false
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.com/citations?user=EzAXL9QAAAAJ&hl=en
