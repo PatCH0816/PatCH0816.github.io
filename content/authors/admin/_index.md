@@ -109,7 +109,7 @@ social:
     link: https://www.linkedin.com/in/patrick-koller-1b171a114/
   - icon: cv
     icon_pack: ai
-    link: static/uploads/resume.pdf
+    link: uploads/resume.pdf
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
