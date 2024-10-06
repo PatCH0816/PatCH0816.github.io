@@ -37,11 +37,11 @@ interests:
 education:
   courses:
     - course: PhD Student Electrical Engineering
-      institution: Northwestern University, USA
+      institution: Northwestern University
     - course: MSc in Data Science
-      institution: Eastern Switzerland University of Applied Sciences, Switzerland
+      institution: Eastern Switzerland University of Applied Sciences
     - course: BSc in Electrical Engineering
-      institution: Zurich University of Applied Sciences, Switzerland
+      institution: Zurich University of Applied Sciences
       # year: 2008
 
 # Skills
@@ -130,7 +130,7 @@ He has developed the [Flightmare](https://github.com/uzh-rpg/flightmare) Simulat
 
 
 On a personal level, Patrick has some interesting life experiences. He was born and raised in a [small, remote village](https://github.com/yun-long/yun-long.github.io/blob/main/content/authors/admin/home.jpg) in South China, an area with very limited access to proper education due to poverty. From the age of six, Patrick was involved in farming, accumulating over a decade of experience in the field. :) He also gained experience working in several Chinese factories. He financed his Master's studies in Germany by working part-time at a software company and as a student assistant at the university. Patrick deeply understands the value of proper education. His life goal is to eliminate the educational barriers he once faced or, at least, help others get a better education.  
-{style="text-align: justify;"} --> -->
+{style="text-align: justify;"} -->
 
 I am a PhD student at Northwestern University supervised by [Prof. Dr. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=de&oi=ao) with a passion for advancing the fields of explainability, domain adaptation/generalization, and machine learning model robustness. Backed by over 10 years of hands-on industry experience in algorithm and software development, machine learning, and project management, I am driven to bridge the gap between cutting-edge research and real-world applications.
 {style="text-align: justify;"} -->
