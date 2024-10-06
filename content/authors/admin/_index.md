@@ -107,9 +107,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/patrick-koller-1b171a114/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -138,6 +138,6 @@ On a personal level, Patrick has some interesting life experiences. He was born 
 I am a PhD student at Northwestern University supervised by [Prof. Dr. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=de&oi=ao) with a passion for advancing the fields of explainability, domain adaptation/generalization, and machine learning model robustness. Backed by over 10 years of hands-on industry experience in algorithm and software development, machine learning, and project management, I am driven to bridge the gap between cutting-edge research and real-world applications.
 {style="text-align: justify;"} -->
 
-<center> 
-<i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "static/uploads/resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
-</center> 
+<!-- <center> 
+<i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "uploads/resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+</center>  -->
