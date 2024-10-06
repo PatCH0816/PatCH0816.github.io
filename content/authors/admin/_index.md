@@ -92,21 +92,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/patrick-koller-1b171a114/
   - icon: twitter
     icon_pack: fab
     link: https://x.com/KollerPatrick
     label: Follow me on Twitter/X
     display:
       header: false
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.com/citations?user=EzAXL9QAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/PatCH0816
-  - icon: linkedin
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/in/patrick-koller-1b171a114/
+    link: https://www.youtube.com/@KollerPatrick
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.com/citations?user=EzAXL9QAAAAJ&hl=en
   # - icon: cv
   #   icon_pack: ai
   #   link: uploads/resume.pdf
