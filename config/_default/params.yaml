@@ -5,8 +5,11 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: system 
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:

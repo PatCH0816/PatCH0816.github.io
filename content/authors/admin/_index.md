@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Patrick Koller
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -11,7 +11,7 @@ last_name: Koller
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,29 +31,31 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:patrickkoller2028@u.northwestern.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/KollerPatrick
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/PatCH0816
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/patrick-koller-1b171a114/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@patrickkoller545
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Signal Processing
+  - Machine Learning
+  - Explainable AI
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Electrical and Computer Engineering
+    institution: Northwestern University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +63,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MEng Data Science
+    institution: Eastern Switzerland University of Applied Sciences
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Electrical Engineering
+    institution: Zurich University of Applied Sciences
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +185,4 @@ awards:
 
 ## About Me
 
-Koller Patrick is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student at Northwestern University with a passion for advancing the fields of explainability, domain adaptation/generalization, and machine learning model robustness. Backed by over 10 years of hands-on industry experience in algorithm and software development, machine learning, and project management, I am driven to bridge the gap between cutting-edge research and real-world applications.
