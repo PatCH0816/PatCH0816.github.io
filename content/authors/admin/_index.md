@@ -1,188 +1,136 @@
 ---
 # Display name
-title: Patrick Koller
+title: Yunlong Song
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Patrick
-last_name: Koller
+first_name: Yunlong
+last_name: Song
 
 # Status emoji
 status:
-  icon: ''
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
-role: PhD Student
+role: PhD in Robotics
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northwestern University
-    url: https://www.northwestern.edu/
+  - name: Robotics and Perception Group
+    url: https://rpg.ifi.uzh.ch/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:patrickkoller2028@u.northwestern.edu'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/KollerPatrick
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/PatCH0816
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/patrick-koller-1b171a114/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
-  - icon: brands/youtube
-    url: https://www.youtube.com/@patrickkoller545
+# Short bio (displayed in user profile at end of posts)
+bio: I am interested in robotics and machine learning. 
 
+# Interests to show in About widget
 interests:
-  - Signal Processing
-  - Machine Learning
-  - Explainable AI
+  - Robotics
+  - Reinforcement Learning
+  - Flying Robots
+  - Legged Robots
 
+# Education to show in About widget
 education:
-  - area: PhD Electrical and Computer Engineering
-    institution: Northwestern University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Data Science
-    institution: Eastern Switzerland University of Applied Sciences
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electrical Engineering
-    institution: Zurich University of Applied Sciences
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  courses:
+    - course: PhD Student in Robotics
+      institution: University of Zurich, Switzerland
+    - course: Visiting PhD Student in Robotics
+      institution: MIT, USA
+    - course: MSc in Information Engineering
+      institution: TU Darmstadt, Germany
+    - course: BSc in Communication Engineering 
+      institution: Shanghai University, China
+      # year: 2008
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/realyunlong
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=EzAXL9QAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/yun-long
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yunlong-song-a80baa124/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-## About Me
+Yunlong is currently a PhD student supervised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) at the [Robotics and Perception Group](https://rpg.ifi.uzh.ch/), which is part of the Department of Informatics, at the [University of Zurich](https://www.uzh.ch/en.html), and the Department of Neuroinformatics, which is a joint institute of both the University of Zurich and [ETH Zurich](https://ethz.ch/en.html). During his PhD, he worked at the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/people) at [MIT](https://www.mit.edu/) with [Prof. Sangbae Kim](https://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU).
+Before his PhD, Yunlong received his master’s degree from [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) under the supervision of [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters).
+{style="text-align: justify;"}
 
-I am a PhD student at Northwestern University with a passion for advancing the fields of explainability, domain adaptation/generalization, and machine learning model robustness. Backed by over 10 years of hands-on industry experience in algorithm and software development, machine learning, and project management, I am driven to bridge the gap between cutting-edge research and real-world applications.
+
+In his research, Yunlong focuses on creating new control algorithms that leverage the fundamental concepts in optimal control, reinforcement learning, and differentiable physics. 
+He has developed the [Flightmare](https://github.com/uzh-rpg/flightmare) Simulator and the first reinforcement learning [policy](https://youtu.be/0d1fEvTJFtI) that pushes a super agile drone to its maximum performance in the physical world. 
+<!-- Recently, he achieved one of the first demonstration of differentiable-simulation-enabled real-world legged locomotion.  -->
+{style="text-align: justify;"}
+
+
+On a personal level, Yunlong has some interesting life experiences. He was born and raised in a [small, remote village](https://github.com/yun-long/yun-long.github.io/blob/main/content/authors/admin/home.jpg) in South China, an area with very limited access to proper education due to poverty. From the age of six, Yunlong was involved in farming, accumulating over a decade of experience in the field. :) He also gained experience working in several Chinese factories. He financed his Master's studies in Germany by working part-time at a software company and as a student assistant at the university. Yunlong deeply understands the value of proper education. His life goal is to eliminate the educational barriers he once faced or, at least, help others get a better education.  
+{style="text-align: justify;"}
