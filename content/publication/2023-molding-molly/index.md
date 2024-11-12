@@ -5,7 +5,9 @@ title: 'A feasibility study on the use of machine learning models applied to cav
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Patrick Koller, [Prof. Dr. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=de&oi=ao), Hannes Badertscher
+  - admin
+  - [Prof. Dr. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=de&oi=ao)
+  - Hannes Badertscher
 
 # # Author notes (optional)
 # author_notes:

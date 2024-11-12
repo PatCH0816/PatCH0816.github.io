@@ -5,7 +5,10 @@ title: 'Caption-based explainable AI'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Patrick Koller, Amil V. Dravid, Prof. Dr. Guido Schuster, Prof. Dr. Aggelos Katsaggelos
+  - admin
+  - Amil V. Dravid
+  - Prof. Dr. Guido Schuster
+  - Prof. Dr. Aggelos Katsaggelos
 
 # # Author notes (optional)
 # author_notes:
