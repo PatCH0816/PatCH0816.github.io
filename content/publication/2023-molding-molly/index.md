@@ -6,7 +6,7 @@ title: 'A feasibility study on the use of machine learning models applied to cav
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - [Prof. Dr. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=de&oi=ao)
+  - Florian Merz
   - Hannes Badertscher
 
 # # Author notes (optional)
