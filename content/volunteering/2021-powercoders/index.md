@@ -1,5 +1,5 @@
 ---
-title: 'Empowering New Talent: Coaching Success with Powercoders'
+title: 'Empowering Talent with Powercoders'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
