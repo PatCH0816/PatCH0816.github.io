@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: PhD Student Electrical Engineering
-      institution: Northwestern University
+      institution: [Northwestern University](https://www.northwestern.edu/)
     - course: MSc in Data Science
       institution: Eastern Switzerland University of Applied Sciences
     - course: BSc in Electrical Engineering
