@@ -182,6 +182,18 @@ sections:
       columns: '2'
       view: compact
   # -----------------------------------------------------------------------------------------
+  - block: collection
+    id: volunteering
+    content:
+      title: Volunteering
+      filters:
+        folders:
+          - volunteering
+        featured_only: true
+    design:
+      columns: '2'
+      view: compact
+  # -----------------------------------------------------------------------------------------
   - block: markdown
     content:
       title: 

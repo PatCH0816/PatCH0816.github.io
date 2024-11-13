@@ -39,8 +39,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Website
+  url: https://powercoders.org/
 
 # url_pdf: 'https://rpg.ifi.uzh.ch/docs/CoRL20_Yunlong.pdf'
 # url_code: 'https://github.com/uzh-rpg/flightmare'
