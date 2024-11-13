@@ -38,7 +38,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Website
   url: https://powercoders.org/
 
