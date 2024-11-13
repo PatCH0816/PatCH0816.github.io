@@ -170,6 +170,18 @@ sections:
       columns: '2'
       view: compact
   # -----------------------------------------------------------------------------------------
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      columns: '2'
+      view: compact
+  # -----------------------------------------------------------------------------------------
   - block: markdown
     content:
       title: 
