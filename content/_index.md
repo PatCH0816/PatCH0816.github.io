@@ -173,10 +173,10 @@ sections:
   - block: collection
     id: featured2
     content:
-      title: Projects
+      title: Publications
       filters:
         folders:
-          - project
+          - publication
         featured_only: true
     design:
       columns: '2'
