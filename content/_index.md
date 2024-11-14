@@ -158,17 +158,17 @@ sections:
  #    view: compact
  #    columns: '2'
   # -----------------------------------------------------------------------------------------
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # -----------------------------------------------------------------------------------------
   - block: collection
     id: featured2
@@ -182,17 +182,17 @@ sections:
       columns: '2'
       view: compact
   # -----------------------------------------------------------------------------------------
-  - block: collection
-    id: featured3
-    content:
-      title: Volunteering
-      filters:
-        folders:
-          - volunteering
-        featured_only: true
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: featured3
+  #   content:
+  #     title: Volunteering
+  #     filters:
+  #       folders:
+  #         - volunteering
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # -----------------------------------------------------------------------------------------
   - block: markdown
     content:
