@@ -16,8 +16,8 @@ main:
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
-  - name: Projects
-    url: '#project'
+  - name: Publications
+    url: '#publication'
     weight: 60
   # - name: Volunteering
   #   url: '#volunteering'
