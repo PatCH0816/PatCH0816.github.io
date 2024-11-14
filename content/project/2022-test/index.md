@@ -6,8 +6,6 @@ title: 'Test'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Florian Merz
-  - Hannes Badertscher
 
 # # Author notes (optional)
 # author_notes:
@@ -29,7 +27,7 @@ publication_types: ['conference']
 publication: Eastern Switzerland University of Applied Sciences
 publication_short: OST
 
-abstract: There are numerous individuals and institutions in this world, who earned more than is needed to cover their fixed costs and living expenses. Due to different motivations, these parties try to protect themself against inflation with a small associated risk or to increase their wealth with a higher associated risk. The objective of this project is to increase the size of its portfolio by using an algorithmic trading approach to trade the worlds first cryptocurrency called Bitcoin. Instead of trading Bitcoin by hand and driven by emotions, a quantitative trading engine is used to identify and capitalize available trading opportunities for the asset according to a multi-label classification model. The core idea is not to predict the prices in the future and execute the trades accordingly but to follow a more recent trend in the quantitative trading environment, where the state of the market is classified using a buy, hold or sell label. During the training phase, these labels are generated using future data. These labels serve as the target to train a classifier with an appropriate set of features. To find a set of distinct features to approximate the labels, an unique measure called the label separation power is used. This process is applied to generate multiple feature and label sets. Each feature and label set is used to train a separate classifier. The outputs of the classifiers are combined and form a trading strategy. Based on the scorer, which penalizes undesired characteristics, the trading strategies are optimized. The best performing strategies end up in an ensemble, which makes the resulting ensemble trading strategy more robust and can determine to buy, hodl or sell discrete amounts of the portfolio value in an optimized fashion according to the data it has been trained on. Backtesting the trading engine over two periods ranging over about one year according to the reference paper results in a positive total return. On one period the total return is around 1.5% per month and on the other period the total return is about 20% per month depending on the market trends. The average position size over both periods is about 50%, which enables the trading engine to quickly adapt to any changes in the market with maximized dynamics at any time. “Trade-that!” is able to demonstrate the feasibility of classifying the state of the market. Nevertheless, past profits do not guarantee future profits. Therefore it is essential to improve the trading engine and to adapt the properties of the trading engine continuously to the most recent market conditions.
+abstract: This is my cool abstract
 
 # Summary. An optional shortened abstract.
 summary:
@@ -45,9 +43,9 @@ featured: true
 #   url: http://example.org
 
 # url_pdf: 'https://rpg.ifi.uzh.ch/docs/CoRL20_Yunlong.pdf'
-# url_code: 'https://github.com/uzh-rpg/flightmare'
+url_code: 'https://github.com/uzh-rpg/flightmare'
 url_dataset: ''
-url_poster: 'https://www.ost.ch/fileadmin/dateiliste/97_daten/abstracts/483a419f-55ac-42e0-882c-bd48219d3f5c.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
