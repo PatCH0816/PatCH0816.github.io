@@ -1,22 +1,25 @@
 ---
-title: 'Test for projects'
+title: 'Caption-based explainable AI'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Amil V. Dravid
+  - Prof. Dr. Guido Schuster
+  - Prof. Dr. Aggelos Katsaggelos
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-08-08'
+date: '2023-02-10'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-08'
+publishDate: '2023-02-10'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +30,7 @@ publication_types: ['conference']
 publication: Eastern Switzerland University of Applied Sciences
 publication_short: OST
 
-abstract: Pportunities for the asset according to a multi-label classification model. The core idea is not to predict the prices in the future and execute the trades accordingly but to follow a more recent trend in the quantitative trading environment, where the state of the market is classified using a buy, hold or sell label. During the training phase, these labels are generated using future data. These labels serve as the target to train a classifier with an appropriate set of features. To find a set of distinct features to approximate the labels, an unique measure called the label separation power is used. This process is applied to generate multiple feature and label sets. Each feature and label set is used to train a sepa.
+abstract: Robustness has become one of the most critical problems in machine learning (ML). The science of interpreting ML models to understand their behavior and improve their robustness is referred to as explainable artificial intelligence (XAI). One of the state-of-the-art XAI methods for computer vision problems is to generate saliency maps. A saliency map highlights the pixel space of an image that excites the ML model the most. However, this property could be misleading if spurious and salient features are present in overlapping pixel spaces. In this paper, we propose a caption-based XAI method, which integrates a standalone model to be explained into the contrastive language-image pre-training (CLIP) model using a novel network surgery approach. The resulting caption-based XAI model identifies the dominant concept that contributes the most to the models prediction. This explanation minimizes the risk of the standalone model falling for a covariate shift and contributes significantly towards developing robust ML models.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -45,7 +48,7 @@ featured: true
 # url_pdf: 'https://rpg.ifi.uzh.ch/docs/CoRL20_Yunlong.pdf'
 # url_code: 'https://github.com/uzh-rpg/flightmare'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://www.ost.ch/fileadmin/dateiliste/97_daten/abstracts/34393c6e-51c7-43dd-b3e4-260f778b82456f9.pdf'
 url_project: ''
 url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
