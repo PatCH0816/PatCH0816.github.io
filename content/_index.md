@@ -165,19 +165,19 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
     design:
       columns: '2'
       view: compact
   # -----------------------------------------------------------------------------------------
   - block: collection
-    id: featured
+    id: volunteering
     content:
-      title: Projects
+      title: Volunteering
       filters:
         folders:
-          - project
-        featured_only: false
+          - volunteering
+        featured_only: true
     design:
       columns: '2'
       view: compact
