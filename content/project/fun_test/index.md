@@ -1,21 +1,18 @@
 ---
-title: 'Asdf Caption-based explainable AI asdf'
+title: 'Fun test'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Amil V. Dravid
-  - Prof. Dr. Guido Schuster
-  - Prof. Dr. Aggelos Katsaggelos
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-02-24'
+date: '2023-02-26'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).

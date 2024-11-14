@@ -171,7 +171,7 @@ sections:
       view: compact
   # -----------------------------------------------------------------------------------------
   - block: collection
-    id: project
+    id: featured
     content:
       title: Projects
       filters:
