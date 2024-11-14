@@ -171,7 +171,7 @@ sections:
   #     view: compact
   # -----------------------------------------------------------------------------------------
   - block: collection
-    id: featured2
+    id: publication
     content:
       title: Publications
       filters:
