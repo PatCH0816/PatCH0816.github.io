@@ -171,7 +171,7 @@ sections:
       view: compact
   # -----------------------------------------------------------------------------------------
   - block: collection
-    id: project
+    id: featured2
     content:
       title: Projects
       filters:
@@ -183,7 +183,7 @@ sections:
       view: compact
   # -----------------------------------------------------------------------------------------
   - block: collection
-    id: volunteering
+    id: featured3
     content:
       title: Volunteering
       filters:
