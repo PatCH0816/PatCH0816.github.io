@@ -1,5 +1,5 @@
 ---
-title: 'Caption-based explainable AI'
+title: 'Caption-based explainable AI asdf'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-02-10'
+date: '2023-02-12'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-02-10'
+publishDate: '2023-02-12'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -48,7 +48,7 @@ featured: true
 # url_pdf: 'https://rpg.ifi.uzh.ch/docs/CoRL20_Yunlong.pdf'
 # url_code: 'https://github.com/uzh-rpg/flightmare'
 url_dataset: ''
-url_poster: 'https://www.ost.ch/fileadmin/dateiliste/97_daten/abstracts/34393c6e-51c7-43dd-b3e4-260f778b82456f9.pdf'
+url_poster: 'https://www.ost.ch/fileadmin/dateiliste/97_daten/abstracts/34393c6e-51c7-43dd-b3e4-260f778456b82456f9.pdf'
 url_project: ''
 url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
