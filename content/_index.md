@@ -159,7 +159,7 @@ sections:
  #    columns: '2'
   # -----------------------------------------------------------------------------------------
   - block: collection
-    id: featured
+    id: publication
     content:
       title: Publications
       filters:
