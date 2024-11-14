@@ -16,7 +16,7 @@ date: '2021-04-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2021-04-01'
+publishDate: '2022-08-08'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ doi: ''
 abstract: Powercoders is a nonprofit program designed to empower refugees and immigrants by providing intensive training in coding and digital skills, opening doors to careers in the tech industry. Through a structured curriculum, participants learn essential programming, web development, and tech skills, preparing them for roles in a rapidly evolving field. The program combines classroom instruction with hands-on projects and frequently includes an internship placement, giving participants invaluable real-world experience. As part of my involvement with Powercoders, I had the rewarding experience of coaching a refugee participant, helping develop their technical and professional skills. Through guidance and mentorship, I successfully helped place this talent in an internship with one of Switzerland’s largest banks, UBS AG—a significant step in their career journey. Powercoders not only bridges skill gaps but also fosters social integration and economic independence, addressing both participants’ needs and the tech industry’s demand for diverse talent.
 
 # Summary. An optional shortened abstract.
-summary: Powercoders is a nonprofit program designed to empower refugees and immigrants by providing intensive training in coding and digital skills, opening doors to careers in the tech industry. Through a structured curriculum, participants learn essential programming, web development, and tech skills, preparing them for roles in a rapidly evolving field. The program combines classroom instruction with hands-on projects and frequently includes an internship placement, giving participants invaluable real-world experience. As part of my involvement with Powercoders, I had the rewarding experience of coaching a refugee participant, helping develop their technical and professional skills. Through guidance and mentorship, I successfully helped place this talent in an internship with one of Switzerland’s largest banks, UBS AG—a significant step in their career journey. Powercoders not only bridges skill gaps but also fosters social integration and economic independence, addressing both participants’ needs and the tech industry’s demand for diverse talent.
+summary:
 
 tags: []
 
