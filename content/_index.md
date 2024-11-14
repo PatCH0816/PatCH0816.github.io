@@ -158,25 +158,25 @@ sections:
  #    view: compact
  #    columns: '2'
   # -----------------------------------------------------------------------------------------
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: compact
-  # -----------------------------------------------------------------------------------------
   - block: collection
-    id: publication
+    id: featured
     content:
       title: Publications
       filters:
         folders:
           - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: compact
+  # -----------------------------------------------------------------------------------------
+  - block: collection
+    id: project
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
         featured_only: true
     design:
       columns: '2'
