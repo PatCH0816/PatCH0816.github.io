@@ -1,5 +1,5 @@
 ---
-title: 'A feasibility study on the use of machine learning models applied to cavity pressure curves in injection molding'
+title: 'AI in injection molding'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
