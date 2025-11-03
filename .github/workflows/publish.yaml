@@ -55,8 +55,9 @@ jobs:
         run: npx pagefind --site "public"
 
       - name: Upload artifact
-        uses: ./.github/actions/upload-pages-artifact
+        uses: actions/upload-artifact
         with:
+          name: github-pages
           path: ./public
 
   deploy:
