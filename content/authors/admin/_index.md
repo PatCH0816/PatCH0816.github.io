@@ -107,7 +107,7 @@ social:
   
   - icon: dblp
     icon_pack: ai
-    link: 'https://dblp.org/pid/346/6435.html'
+    link: 'https://dblp.org/pid/420/0835.html'
     label: DBLP
 
   - icon: github
