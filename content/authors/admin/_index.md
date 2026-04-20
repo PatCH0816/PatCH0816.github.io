@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,18 +25,18 @@ organizations:
     url: https://www.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in signal processing, machine learning and explainable AI. 
+bio: I work on scientific machine learning, focusing on physics-informed neural networks, neural operators, and large-scale physical simulations.
 
 # Interests to show in About widget
 interests:
-  - Signal Processing
-  - Machine Learning
+  - Scientific Machine Learning
   - Explainable AI
+  - Signal Processing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Student Electrical Engineering
+    - course: PhD Candidate in Electrical Engineering
       institution: Northwestern University
     - course: MSc in Data Science
       institution: Eastern Switzerland University of Applied Sciences
@@ -92,21 +92,35 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/patrick-koller-1b171a114/
+
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=w1QXiQkAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=jMiy9HQAAAAJ
+  
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0003-1268-5529
+  
+  - icon: dblp
+    icon_pack: ai
+    link: 'https://dblp.org/pid/346/6435.html'
+    label: DBLP
+
   - icon: github
     icon_pack: fab
     link: https://github.com/PatCH0816
+  
   - icon: twitter
     icon_pack: fab
     link: https://x.com/KollerPatrick
     label: Follow me on Twitter/X
     display:
       header: false
+  
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@KollerPatrick
@@ -124,9 +138,15 @@ social:
 highlight_name: true
 ---
 
-Hi there, I'm Patrick, a PhD student in the [AI in Multimedia - Image and Video Processing Lab](https://sites.northwestern.edu/ivpl/) at [Northwestern University](https://www.northwestern.edu/), working under the guidance of [Prof. Dr. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=de&oi=ao). My research focuses on making machine learning models more explainable, adaptable, and robust, bridging the gap between what AI can do and how well we can understand and trust it. My passion for signal processing and explainable AI began during my master’s in data science at the [Eastern Switzerland University of Applied Sciences](https://www.ost.ch/en/), where I was supervised by [Prof. Dr. Schuster](https://scholar.google.com/citations?user=_A1-3vMAAAAJ&hl=de&oi=ao), founder and director of the [Interdisciplinary Center for Artificial Intelligence](https://www.ost.ch/de/forschung-und-dienstleistungen/interdisziplinaere-themen/icai-interdisciplinary-center-for-artificial-intelligence). Backed by over 10 years of hands-on industry experience in algorithm and software development, machine learning, and project management, I am driven to bridge the gap between cutting-edge research and real-world applications.
+Hi, I’m Patrick, a PhD candidate in Electrical and Computer Engineering at [Northwestern University](https://www.northwestern.edu/). I work in the [AI in Multimedia - Image and Video Processing Lab](https://sites.northwestern.edu/ivpl/) under the guidance of [Prof. Dr. Aggelos K. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html), and I am also affiliated with the [SkAI Institute](https://skai-institute.org/), the NSF-Simons Foundation-funded National AI Institute for the Sky.
 
-On a lighter note, I’m a Swiss native now calling the Chicago area my home-away-from-the-mountains for my PhD. Nothing makes me happier than gathering with friends and family—sharing stories, laughs, and those little moments that make life so great. In my free time, I’m likely lost in music, whether I’m exploring Chicago’s legendary blues scene or strumming my guitar. When I’m not geeking out on AI or enjoying live music, you’ll find me on two wheels, hitting the pavement as an avid runner, or practicing martial arts—my go-to ways for staying grounded (and letting off a bit of steam!). I’d love to connect, share ideas, and explore potential collaborations—feel free to reach out, and let’s make something exciting happen!
+My research focuses on scientific machine learning, with particular interests in physics-informed neural networks (PINNs), physics-informed neural operators (PINOs), and machine learning for large-scale physical simulations. As part of the [SkAI Institute](https://skai-institute.org/), I contribute to the project [AI-Accelerated Simulations with Multiscale Astrophysics Using Physics-Based Deep Learning](https://skai-institute.org/research/skai-funded-projects-year-1-2-2024-2026/project-1-ai-accelerated-simulations-with-multi-scale-astrophysics-using-physics-based-deep-learning/), which aims to accelerate astrophysical simulations through physics-based deep learning, hybrid numerical and learned methods, and uncertainty-aware modeling.
+
+More broadly, I am interested in combining machine learning with physical principles to model complex systems in ways that are not only powerful, but also explainable, robust, and scientifically grounded. My work connects scientific machine learning, signal processing, and trustworthy AI, especially in settings where data is limited or expensive and physical structure can improve generalization, scalability, and reliability.
+
+My interest in signal processing and machine learning began during my master’s in data science at the [Eastern Switzerland University of Applied Sciences](https://www.ost.ch/en/), where I was supervised by [Prof. Dr. Guido M. Schuster](https://www.barnes-schuster.ch/). Before starting my PhD, I spent more than 10 years in industry developing machine learning, signal processing, and computer vision methods for embedded systems, with a focus on explainability, robustness, and practical deployment.
+
+On a lighter note, I’m a Swiss native now calling the Chicago area my home-away-from-the-mountains for my PhD. Nothing makes me happier than gathering with friends and family, sharing stories, laughs, and those little moments that make life so great. In my free time, I’m likely lost in music, whether I’m exploring Chicago’s legendary blues scene or strumming my guitar. When I’m not geeking out on AI or enjoying live music, you’ll find me on two wheels, hitting the pavement as an avid runner, or practicing martial arts, my go-to ways for staying grounded and letting off a bit of steam. I’d love to connect, share ideas, and explore potential collaborations. Feel free to reach out, and let’s make something exciting happen!
 {style="text-align: justify;"} -->
 
 <!-- <center> 
