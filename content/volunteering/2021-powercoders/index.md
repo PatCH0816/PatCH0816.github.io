@@ -83,3 +83,11 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
+Powercoders is a nonprofit program that empowers refugees and immigrants by providing intensive training in coding and digital skills, helping them access opportunities in the tech industry.
+
+Through a structured curriculum, participants develop essential programming, web development, and professional skills needed to succeed in a fast-changing digital world. The program combines classroom learning with hands-on projects and often includes internship opportunities, giving participants valuable real-world experience.
+
+As part of my involvement with Powercoders, I had the rewarding opportunity to coach a refugee participant and support their technical and professional development. Through mentorship and guidance, I helped this talent strengthen their skills and successfully secure an internship with one of Switzerland’s largest banks, UBS AG.
+
+Powercoders not only helps close skill gaps but also promotes social integration and economic independence. It creates meaningful pathways for individuals to rebuild their careers while also connecting the tech industry with diverse and motivated talent.
