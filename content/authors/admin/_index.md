@@ -19,6 +19,12 @@ superuser: true
 # Role/position/tagline
 role: PhD Candidate
 
+# use custom profile picture filename
+resources:
+- src: "patrick-koller.jpg"
+  name: "avatar"
+avatar: patrick-koller.jpg
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Northwestern University
