@@ -134,19 +134,20 @@ social:
   #   icon_pack: ai
   #   link: uploads/resume.pdf
 
+  - icon: university
+    icon_pack: fas
+    link: https://sites.northwestern.edu/patrickkoller/
+    label: Northwestern Profile
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi, I’m Patrick, a PhD candidate in Electrical and Computer Engineering at [Northwestern University](https://www.northwestern.edu/). I work in the [AI in Multimedia - Image and Video Processing Lab](https://sites.northwestern.edu/ivpl/) under the guidance of [Prof. Dr. Aggelos K. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html), and I am also affiliated with the [SkAI Institute](https://skai-institute.org/), the NSF-Simons Foundation-funded National AI Institute for the Sky.
+Hi there, I’m Patrick, a PhD candidate in Electrical and Computer Engineering at [Northwestern University](https://www.northwestern.edu/). I work in the [AI in Multimedia - Image and Video Processing Lab](https://sites.northwestern.edu/ivpl/) under the guidance of [Prof. Dr. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html), and I am affiliated with the [SkAI Institute](https://skai-institute.org/), the NSF-Simons National AI Institute for the Sky.
 
-My research focuses on scientific machine learning, with particular interests in physics-informed neural networks (PINNs), physics-informed neural operators (PINOs), and machine learning for large-scale physical simulations. As part of the [SkAI Institute](https://skai-institute.org/), I contribute to the project [AI-Accelerated Simulations with Multiscale Astrophysics Using Physics-Based Deep Learning](https://skai-institute.org/research/skai-funded-projects-year-1-2-2024-2026/project-1-ai-accelerated-simulations-with-multi-scale-astrophysics-using-physics-based-deep-learning/), which aims to accelerate astrophysical simulations through physics-based deep learning, hybrid numerical and learned methods, and uncertainty-aware modeling.
+My research focuses on scientific machine learning, specifically physics-informed neural networks and simulations in astrophysics. I aim to build models that are explainable, robust, and scientifically grounded, bridging the gap between AI capabilities and our ability to trust its results. With over 10 years of industry experience in software development and project management, I am driven to translate cutting-edge research into real-world applications. My foundation in this field began during my master’s in data science at the [Eastern Switzerland University of Applied Sciences](https://www.ost.ch/en/), where I was supervised by [Prof. Dr. Schuster](https://www.barnes-schuster.ch/) at the [Interdisciplinary Center for Artificial Intelligence](https://www.ost.ch/de/forschung-und-dienstleistungen/interdisziplinaere-themen/icai-interdisciplinary-center-for-artificial-intelligence).
 
-More broadly, I am interested in combining machine learning with physical principles to model complex systems in ways that are not only powerful, but also explainable, robust, and scientifically grounded. My work connects scientific machine learning, signal processing, and trustworthy AI, especially in settings where data is limited or expensive and physical structure can improve generalization, scalability, and reliability.
-
-My interest in signal processing and machine learning began during my master’s in data science at the [Eastern Switzerland University of Applied Sciences](https://www.ost.ch/en/), where I was supervised by [Prof. Dr. Guido M. Schuster](https://www.barnes-schuster.ch/). Before starting my PhD, I spent more than 10 years in industry developing machine learning, signal processing, and computer vision methods for embedded systems, with a focus on explainability, robustness, and practical deployment.
-
-On a lighter note, I’m a Swiss native now calling the Chicago area my home-away-from-the-mountains for my PhD. Nothing makes me happier than gathering with friends and family, sharing stories, laughs, and those little moments that make life so great. In my free time, I’m likely lost in music, whether I’m exploring Chicago’s legendary blues scene or strumming my guitar. When I’m not geeking out on AI or enjoying live music, you’ll find me on two wheels, hitting the pavement as an avid runner, or practicing martial arts, my go-to ways for staying grounded and letting off a bit of steam. I’d love to connect, share ideas, and explore potential collaborations. Feel free to reach out, and let’s make something exciting happen!
+On a lighter note, I am a Swiss native now calling the Chicago area my home away from the mountains for my PhD. Nothing makes me happier than gathering with friends and family to share stories, laughs, and those little moments that make life so great. In my free time, I am often lost in music, whether exploring Chicago’s legendary blues scene or strumming my guitar. When I am not geeking out on AI, you will find me on two wheels, hitting the pavement as an avid runner, or practicing martial arts to stay grounded. I would love to connect and explore potential collaborations, so please feel free to reach out. Let’s make something exciting happen!
 {style="text-align: justify;"} -->
 
 <!-- <center> 
