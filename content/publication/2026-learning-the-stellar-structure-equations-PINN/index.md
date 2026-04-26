@@ -42,10 +42,11 @@ links:
   url: 'https://arxiv.org/abs/2604.06255'
 
 # Featured image (e.g., a plot of PINN vs MESA radial profiles)
+# Featured image
 image:
-  filename: "pinn-stellar-structure.png"
+  filename: "./pinn-stellar-structure.png"
   caption: 'Continuous radial profiles learned by the PINN framework.'
-  focal_point: ''
+  focal_point: 'Smart'
   preview_only: false
 ---
 
