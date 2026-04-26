@@ -59,8 +59,9 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
-  focal_point: ''
+  filename: 'caption-driven-xai-clip-probing.png'
+  caption: 'Framework for Caption-Driven XAI: Integrating target CNNs with CLIP via network surgery to identify semantic bias.'
+  focal_point: 'smart'
   preview_only: false
 
 # Associated Projects (optional).
