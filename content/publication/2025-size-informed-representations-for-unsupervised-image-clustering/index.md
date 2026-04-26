@@ -56,8 +56,9 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
-  focal_point: ''
+  filename: 'size-informed-clustering-pipeline.png'
+  caption: 'Proposed framework for size-informed deep image clustering using late-fusion size injection.'
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
