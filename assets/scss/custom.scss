@@ -17,3 +17,19 @@
 .network-icon li a {
   line-height: 1;
 }
+
+// Fix for Research Slider: Stop cropping diagrams
+#research-carousel {
+  // Target all background images in the slider
+  [style*="background-image"] {
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-attachment: scroll !important;
+  }
+
+  // Remove the default dark overlay so colors stay accurate
+  .hero-overlay {
+    display: none !important;
+  }
+}

@@ -194,15 +194,23 @@ sections:
   #     columns: '2'
   #     view: compact
   # -----------------------------------------------------------------------------------------
-  - block: markdown
+  - block: slider
+    id: research-carousel
     content:
-      title: 
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      text: '' 
+      slides:
+        - background:
+            image:
+              filename: pinn-stellar-structure.jpg
+        - background:
+            image:
+              filename: dtw-binary-alignment.jpg
     design:
-      view: compact 
-      columns: '1'
+      slide_height: '50vh'
+      is_fullscreen: false
+      loop: true
+      spacing:
+        padding: ['0', '10%', '0', '10%']
   # -----------------------------------------------------------------------------------------
  #- block: portfolio
  #  id: projects
