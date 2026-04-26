@@ -89,3 +89,16 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 [Philipp Rajah Moura Srivastava](https://sites.northwestern.edu/ivpl/people/), [Charilaos Apostolidis](https://sites.northwestern.edu/ivpl/people/), [Saumya Pailwan](https://sites.northwestern.edu/ivpl/people/), **Patrick Koller**, and [Leandros Stefanopoulos](https://sites.northwestern.edu/ivpl/people/)
 
 Accepted and presented at the [IEEE ICIP 2025 Satellite Workshop](https://cmsworkshops.com/ICIP2025/view_paper.php?PaperNum=3089): "Generative AI for World Simulations and Communications & Celebrating 40 Years of Excellence in Education: Honoring Prof. Aggelos Katsaggelos," Anchorage, Alaska, USA, Sept 14, 2025.
+
+### BibTeX Citation
+```bibtex
+@INPROCEEDINGS{Srivastava_2025_SizeInformedClustering,
+  author={Srivastava, Philipp Rajah Moura and Apostolidis, Charilaos and Pailwan, Saumya and Koller, Patrick and Stefanopoulos, Leandros},
+  booktitle={2025 IEEE International Conference on Image Processing Workshops (ICIPW)}, 
+  title={Size-Informed Representations for Unsupervised Image Clustering}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={743-748},
+  keywords={Visualization;Image coding;Conferences;Semantics;Pipelines;Data models;Image preprocessing;Standards;Unsupervised Image Clustering;SelfSupervised Learning;Size Encoding;Image Preprocessing;Deep Embedded Clustering},
+  doi={10.1109/ICIPW68931.2025.11386144}}
