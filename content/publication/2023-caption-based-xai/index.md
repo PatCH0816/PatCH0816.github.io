@@ -92,3 +92,17 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 **Patrick Koller**, [Amil V. Dravid](https://avdravid.github.io/), [Prof. Dr. Guido Schuster](https://www.barnes-schuster.ch/), and [Prof. Dr. Aggelos Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html)
 
 Accepted and presented at the [IEEE ICIP 2025 Satellite Workshop](https://cmsworkshops.com/ICIP2025/view_paper.php?PaperNum=3069#top): "Generative AI for World Simulations and Communications & Celebrating 40 Years of Excellence in Education: Honoring Prof. Aggelos Katsaggelos," Anchorage, Alaska, USA, Sept 14, 2025.
+
+### BibTeX Citation
+```bibtex
+@INPROCEEDINGS{Koller_2025_CaptionXAI,
+  author={Koller, Patrick and Dravid, Amil V. and Schuster, Guido M. and Katsaggelos, Aggelos K.},
+  booktitle={2025 IEEE International Conference on Image Processing Workshops (ICIPW)}, 
+  title={Caption-Driven Explainability: Probing CNNS for Bias Via Clip}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={663-667},
+  keywords={Explainable AI;Computational modeling;Machine vision;Zero shot learning;Surgery;Medical services;Debugging;Predictive models;Robustness;Convolutional neural networks;Multi-Modal Explainability;CLIP;Model Bias Detection;Zero-Shot Learning;Network Surgery},
+  doi={10.1109/ICIPW68931.2025.11386015}
+}
