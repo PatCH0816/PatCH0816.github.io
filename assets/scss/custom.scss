@@ -1,15 +1,14 @@
 .network-icon {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.2rem 0.4rem;
-  max-width: 13rem;
-  margin: 0 auto;
-  padding: 0;
+  display: grid !important;
+  grid-template-columns: repeat(5, 1fr) !important;
+  justify-items: center !important;
+  gap: 0 0.1rem !important;
+  max-width: 11rem !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
 }
 
 .network-icon li {
-  flex: 0 0 2.1rem;
   display: flex;
   justify-content: center;
 }
