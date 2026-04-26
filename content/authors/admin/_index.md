@@ -21,9 +21,9 @@ role: PhD Candidate
 
 # use custom profile picture filename
 resources:
-- src: "patrick-koller.jpg"
+- src: "patrick-koller-engineer.jpg"
   name: "avatar"
-avatar: patrick-koller.jpg
+avatar: patrick-koller-engineer.jpg
 
 # Organizations/Affiliations to show in About widget
 organizations:
