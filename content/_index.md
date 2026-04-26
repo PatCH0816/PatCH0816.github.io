@@ -201,6 +201,9 @@ sections:
       slides:
         - background:
             image:
+              filename: Delta-Supercomputer.jpg
+        - background:
+            image:
               filename: pinn-stellar-structure.jpg
         - background:
             image:
