@@ -45,7 +45,7 @@ links:
 image:
   filename: "dtw-binary-alignment.png"
   caption: 'Shared warping path alignment for binary stellar tracks using DTW.'
-  focal_point: ''
+  focal_point: 'smart'
   preview_only: false
 ---
 
