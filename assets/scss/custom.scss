@@ -18,10 +18,31 @@
   line-height: 1;
 }
 
+/* Change section background colors to alternate between white and light blue */
+.home-section {
+  background: #ffffff !important; /* White for odd sections */
+}
+
+.home-section:nth-of-type(even) {
+  background: #e3f2fd !important; /* Light blue for even sections */
+}
+
 // Fix for Research Slider: Stop cropping diagrams
 #research-carousel {
-  // Target all background images in the slider
-  [style*="background-image"] {
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+
+  /* Keep slide height fixed while showing blue padding above/below tall images */
+  .carousel-item {
+    padding: 1rem 0 !important;
+    box-sizing: border-box !important;
+    background-color: #e3f2fd !important;
+    background-origin: content-box !important;
+    background-clip: content-box !important;
+  }
+
+  // Override the background image settings inside the carousel slides
+  .carousel-item[style*="background-image"] {
     background-size: contain !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
