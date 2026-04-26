@@ -32,7 +32,7 @@ publication_short: 'IEEE ICIPW'
 abstract: "Unsupervised image clustering aims to group unlabeled images into semantically meaningful categories without human supervision. While deep learning-based clustering frameworks such as semantic clustering by adopting neighbors (SCAN) and deep embedding clustering (DEC) have recently achieved promising results, the impact of preprocessing strategies—such as aspect-preserving padding and direct resizing—on clustering performance remains underexplored. This paper investigates both implicit size information (through preprocessing) and explicit size information injection in deep clustering frameworks, using a high-stakes, real-world dataset with significant image heterogeneity. We systematically evaluate SCAN and DINOv2-DEC clustering frameworks across multiple strategies: direct resizing, aspect ratio-preserving padding and late-fusion size injection with spectral encoding."
 
 # Summary. An optional shortened abstract.
-# summary: ""
+summary: "This paper investigates how image size and preprocessing impact unsupervised clustering, introducing a late-fusion size injection strategy that significantly improves performance on heterogeneous real-world datasets."
 
 tags: ["Unsupervised Image Clustering", "Self-Supervised Learning", "Size Encoding", "Image Preprocessing", "Deep Embedded Clustering", "SCAN", "DINOv2", "IEEE ICIP"]
 
