@@ -20,11 +20,20 @@
 
 /* Change section background colors to alternate between white and light blue */
 .home-section {
-  background: #ffffff !important; /* White for odd sections */
+  background: #ffffff; /* White for odd sections (light mode) */
 }
 
 .home-section:nth-of-type(even) {
-  background: #e3f2fd !important; /* Light blue for even sections */
+  background: #e3f2fd; /* Light blue for even sections (light mode) */
+}
+
+/* Dark mode support using Hugo Blox's .dark class */
+.dark .home-section {
+  background: #1a1a1a; /* Dark background for odd sections (dark mode) */
+}
+
+.dark .home-section:nth-of-type(even) {
+  background: #0d1b2a; /* Darker blue for even sections (dark mode) */
 }
 
 // Fix for Research Slider: Stop cropping diagrams
@@ -36,9 +45,14 @@
   .carousel-item {
     padding: 1rem 0 !important;
     box-sizing: border-box !important;
-    background-color: #e3f2fd !important;
+    background-color: #e3f2fd;
     background-origin: content-box !important;
     background-clip: content-box !important;
+  }
+
+  /* Dark mode carousel styling using Hugo Blox's .dark class */
+  .dark & .carousel-item {
+    background-color: #0d1b2a;
   }
 
   // Override the background image settings inside the carousel slides
