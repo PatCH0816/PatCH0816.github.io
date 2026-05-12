@@ -41,13 +41,15 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: ICIP Program
+  url: 'https://cmsworkshops.com/ICIP2025/view_paper.php?PaperNum=3089'
 - name: IEEE Xplore
   url: 'https://ieeexplore.ieee.org/document/11386144'
 
 # url_pdf: 'https://arxiv.org/abs/2510.22035'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster_size_informed_representations.jpg'
 url_project: ''
 url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'

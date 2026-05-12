@@ -42,6 +42,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: Abstract
+  url: 'https://www.ost.ch/fileadmin/dateiliste/97_daten/abstracts/34393c6e-51c7-43dd-b3e4-260f778b82f9.pdf'
+- name: ICIP Program
+  url: 'https://cmsworkshops.com/ICIP2025/view_paper.php?PaperNum=3069'
 - name: IEEE Xplore
   url: 'https://ieeexplore.ieee.org/abstract/document/11386015'
 - name: arXiv
@@ -50,7 +54,7 @@ links:
 # url_pdf: 'https://arxiv.org/abs/2510.22035'
 url_code: 'https://github.com/patch0816/caption-driven-xai'
 url_dataset: ''
-url_poster: 'https://www.ost.ch/fileadmin/dateiliste/97_daten/abstracts/34393c6e-51c7-43dd-b3e4-260f778b82f9.pdf'
+url_poster: 'poster_caption_driven_explainability.jpg'
 url_project: ''
 url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
