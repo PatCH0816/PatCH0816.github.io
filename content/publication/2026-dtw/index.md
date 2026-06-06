@@ -17,17 +17,17 @@ authors:
   - "Max M Briel"
   - "Elizabeth Teng"
 
-date: '2026-04-15'
-doi: ''
+date: '2026-06-05'
+doi: '10.3847/1538-4357/ae63c6'
 
 # Schedule page publish date
-publishDate: '2026-04-15'
+publishDate: '2026-06-05'
 
 publication_types: ['article']
 
 # Publication name
-publication: '*arXiv* preprint arXiv:2604.13604'
-publication_short: 'arXiv'
+publication: '*The Astrophysical Journal*, 1004(1), 78'
+publication_short: '*ApJ*'
 
 abstract: "Binary stellar evolution simulations are computationally expensive, yet they are fundamental to stellar population synthesis. While single-star track interpolation is straightforward, interactions in binary systems, such as mass transfer and tidal forces, introduce discontinuities that make traditional methods inapplicable. In this work, we introduce a novel approach for track alignment and iterative track averaging based on Dynamic Time Warping (DTW). Our method computes a single shared warping path across all physical parameters simultaneously, placing them on a consistent temporal grid that preserves causal relationships. We demonstrate that this joint-alignment strategy maintains key physical laws, such as the Stefan-Boltzmann law, in the interpolated tracks, consistently outperforming standard interpolation methods across multiple binary configurations."
 
@@ -38,6 +38,8 @@ tags: ["Dynamic Time Warping", "Binary Stellar Evolution", "Time Series Interpol
 featured: true
 
 links:
+- name: Journal
+  url: 'https://doi.org/10.3847/1538-4357/ae63c6'
 - name: arXiv
   url: 'https://arxiv.org/abs/2604.13604'
 
@@ -53,12 +55,16 @@ image:
 
 ### BibTeX Citation
 ```bibtex
-@misc{demir2026irregularlysampledtimeseries,
-      title={Irregularly Sampled Time Series Interpolation for Binary Evolution Simulations Using Dynamic Time Warping}, 
-      author={Ugur Demir and Philipp M. Srivastava and Aggelos Katsaggelos and Vicky Kalogera and Santiago L. Tapia and Manuel Ballester and Shamal Lalvani and Patrick Koller and Jeff J. Andrews and Seth Gossage and Max M. Briel and Elizabeth Teng},
-      year={2026},
-      eprint={2604.13604},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.SR},
-      url={https://arxiv.org/abs/2604.13604}, 
+@article{Demir_2026,
+  doi       = {10.3847/1538-4357/ae63c6},
+  url       = {https://doi.org/10.3847/1538-4357/ae63c6},
+  year      = {2026},
+  month     = {jun},
+  publisher = {The American Astronomical Society},
+  volume    = {1004},
+  number    = {1},
+  pages     = {78},
+  author    = {Demir, Ugur and Srivastava, Philipp M. and Katsaggelos, Aggelos and Kalogera, Vicky and Tapia, Santiago L. and Ballester, Manuel and Lalvani, Shamal and Koller, Patrick and Andrews, Jeff J. and Gossage, Seth and Briel, Max M. and Teng, Elizabeth},
+  title     = {Irregularly Sampled Time Series Interpolation for Binary Evolution Simulations Using Dynamic Time Warping},
+  journal   = {The Astrophysical Journal}
 }
