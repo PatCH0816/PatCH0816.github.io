@@ -23,7 +23,7 @@ doi: '10.3847/1538-4357/ae63c6'
 # Schedule page publish date
 publishDate: '2026-06-05'
 
-publication_types: ['2']
+publication_types: ['Journal Article']
 
 # Publication name
 publication: '*The Astrophysical Journal*, 1004(1), 78'
